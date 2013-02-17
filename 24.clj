@@ -1,0 +1,2 @@
+(fn [coll]
+	(reduce + coll))
